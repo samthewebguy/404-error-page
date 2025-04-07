@@ -1,6 +1,6 @@
 # 🧭 Creative 404 Error Page 
 
-This is a custom-designed 404 error page built for a website. The page features bold typography, a lighthearted message, and a visually engaging layout that guides users back to the homepage — ensuring even wrong turns feel intentional.
+This is a custom-designed 404 error page built for a website. The page features bold typography, a lighthearted message, and a visually engaging layout that guides users back to the homepage. It makes even wrong turns feel intentional.
 
 ---
 
