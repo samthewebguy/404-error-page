@@ -32,6 +32,6 @@ The goal of this project is to create a **user-friendly**, **on-brand**, and **v
 
 ## 📸 Preview
 
-![404 Error Page Preview](./404 Error Page Sreenshot.png)
+![404 Error Page Preview](./Images/404%20Error%20Page%20Screenshot.png)
 
 > *“Don't worry, sometimes even the best pages needs a break. Maybe it's meditating in the digital mountains?”*
