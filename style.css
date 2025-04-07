@@ -115,6 +115,11 @@ i{
 }
 
 @media(max-width:768px){
+
+    .container{
+        padding: 40px;
+    }
+
     .heading .h1{
         font-size: 80px;
     }
